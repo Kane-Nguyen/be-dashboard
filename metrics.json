@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2025-09-22T00:00:00Z",
+    "source": "POS",
+    "amount": 1200,
+    "tags": ["week39"]
+  },
+  {
+    "date": "2025-09-23T00:00:00Z",
+    "source": "EatClub",
+    "amount": 800,
+    "tags": ["week39"]
+  },
+  {
+    "date": "2025-09-24T00:00:00Z",
+    "source": "Labour",
+    "amount": 500,
+    "tags": ["week39"]
+  },
+  {
+    "date": "2025-09-29T00:00:00Z",
+    "source": "POS",
+    "amount": 1500,
+    "tags": ["week40"]
+  },
+  {
+    "date": "2025-09-30T00:00:00Z",
+    "source": "EatClub",
+    "amount": 900,
+    "tags": ["week40"]
+  },
+  {
+    "date": "2025-10-01T00:00:00Z",
+    "source": "Labour",
+    "amount": 550,
+    "tags": ["week40"]
+  }
+]
